@@ -1,1 +1,2 @@
-# Stepic_course_selenium_step3.6.8
+# Cool course 'bout selenium:
+https://stepik.org/lesson/237240/step/9?unit=209628
